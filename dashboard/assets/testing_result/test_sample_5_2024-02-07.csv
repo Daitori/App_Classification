@@ -1,0 +1,6 @@
+,file,label,Guess,Correct
+0,dashboard/assets/images_dataset/CFEE/happy/02_008.jpg,happy,['happy'],True
+1,dashboard/assets/images_dataset/CFEE/Appalled/20_101.jpg,Appalled,['disgust'],False
+2,dashboard/assets/images_dataset/CFEE/angry/05_035.jpg,angry,['angry'],True
+3,dashboard/assets/images_dataset/CFEE/surprise/06_058.jpg,surprise,['surprise'],True
+4,dashboard/assets/images_dataset/CFEE/disgust/07_199.jpg,disgust,['disgust'],True

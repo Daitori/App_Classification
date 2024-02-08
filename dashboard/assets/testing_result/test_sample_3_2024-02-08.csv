@@ -1,0 +1,4 @@
+,file,label,Guess,Correct
+0,dashboard/assets/images_dataset/CFEE/sad/03_131.jpg,sad,['sad'],True
+1,dashboard/assets/images_dataset/CFEE/surprise/06_001.jpg,surprise,['surprise'],True
+2,dashboard/assets/images_dataset/CFEE/disgust/07_140.jpg,disgust,['angry'],False

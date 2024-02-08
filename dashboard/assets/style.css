@@ -1,0 +1,133 @@
+/*Global styles*/
+summary {
+    list-style: none;
+    margin: 10px;
+}
+summary::-webkit-details-marker {display: none; }
+details {border-radius: 8px;}
+label {display: block;}
+
+.dash-dropdown {
+    margin-top: 10px;
+}
+.daq-booleanswitch--light__background {
+    width: 49px !important;
+}
+
+.tabContent {
+    width: 68%;
+    margin: 20px auto;
+}
+
+.cardDiv {
+    margin-top: 16px;
+    border-radius: 8px;
+    border: 1px solid lightgrey;
+    padding: 12px
+}
+.cardDiv + .cardDiv{
+    margin-top: 24px;
+}
+
+.flexDiv {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+.right {
+    float: right;
+    margin-left: 12px;
+    margin-right: 0 !important;
+}
+
+.tinyButton {
+    height: 24px;
+    font-size: 12px;
+    padding: 0 8px;
+}
+
+.buffer {
+    display: none;
+}
+
+
+/*menu.py styles*/
+.menuCard {
+    width: 49.5%;
+    align-self: stretch;
+    margin-top: 24px;
+    height: 33%;
+    padding: 2% 2%;
+    text-align: justify;
+    position:relative
+}
+
+.menuCardGroupDuo {
+    width: 100%;
+    align-self: stretch;
+    margin-top: 24px;
+    height: 33%;
+    padding: 2% 2%;
+    text-align: justify;
+    background-color: beige;
+}
+
+.menuCardGroupDuoElement {
+    width: 48%;
+    align-self: stretch;
+    margin-top: 24px;
+    height: 30%;
+    padding: 2% 2%;
+    text-align: justify;
+    position:relative;
+    background-color: white;
+}
+
+
+.menuButton {
+    height: 8%;
+    font-size: 1.0rem;
+    position: relative;
+    right:    2%;
+    bottom:   2%;
+
+}
+.menuDescription {
+    height: 32px;
+    font-size: 1.0rem;
+}
+
+
+
+.menuImage {
+    width:  50%;
+    height:  50%;
+
+}
+
+.surround{
+    border-radius: 8px;
+    border: 1px solid lightgrey;
+    padding: 12px;
+    margin: 12px 0;
+}
+
+/*custom_elements.py styles*/
+.collapseDetailsDiv {
+    border-radius: 8px;
+    border: 1px lightgrey solid;
+    margin-top: 20px;
+}
+.collapseButton {
+    background-color: white;
+    width: 100%;
+    border-style: unset;
+    border-radius: 12px;
+}
+.collapseButtonChildren {
+    text-align: left;
+    margin: 8px 8px 8px 12px;
+}
+

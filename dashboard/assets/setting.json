@@ -1,0 +1,15 @@
+{
+    "setting": {
+        "number_of_images": 5,
+        "emotions_to_test": [
+            "angry",
+            "disgust",
+            "fear",
+            "neutral",
+            "sad",
+            "surprise",
+            "happy"
+        ],
+        "number_of_choices": 1
+    }
+}
